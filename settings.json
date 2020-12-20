@@ -96,8 +96,19 @@
         { "command": { "action": "switchToTab", "index": 5 }, "keys": "ctrl+6" },
         { "command": { "action": "switchToTab", "index": 6 }, "keys": "ctrl+7" },
         { "command": { "action": "switchToTab", "index": 7 }, "keys": "ctrl+8" },
-        { "command": { "action": "switchToTab", "index": 8 }, "keys": "ctrl+9" }
+        { "command": { "action": "switchToTab", "index": 8 }, "keys": "ctrl+9" },
 
-
+        
+        // Tab Colors
+        { "command": { "action": "setTabColor", "color": "#000000" }, "keys": "f1" },
+        { "command": { "action": "setTabColor", "color": "#ff0000" }, "keys": "f2" },
+        { "command": { "action": "setTabColor", "color": "#ff5500" }, "keys": "f3" },
+        { "command": { "action": "setTabColor", "color": "#ff8800" }, "keys": "f4" },
+        { "command": { "action": "setTabColor", "color": "#ffff00" }, "keys": "f5" },
+        { "command": { "action": "setTabColor", "color": "#00aa00" }, "keys": "f6" },
+        { "command": { "action": "setTabColor", "color": "#007722" }, "keys": "f7" },
+        { "command": { "action": "setTabColor", "color": "#003388" }, "keys": "f8" },
+        { "command": { "action": "setTabColor", "color": "#7700aa" }, "keys": "f9" },
+        { "command": { "action": "setTabColor", "color": "#ff00ff" }, "keys": "f10" }
     ]
 }
